@@ -1,5 +1,9 @@
 # 生活优选（hm-dianping）
 
+> 🔗 **项目地址**：https://github.com/KBB040327/hm-dianping
+>
+> 技术栈：Java 8 · SpringBoot · MyBatis-Plus · MySQL · Redis · Redisson · Redis Stream
+
 一个本地生活服务类平台的后端实现，涵盖商户浏览、优惠券秒杀、探店笔记、关注点赞、附近商户等典型业务场景。
 
 > **项目说明**：本项目参考开源教程《黑马点评》实现，主要用于系统学习 Redis 在实际业务中的落地方式。在此基础上我做了一些自己的改造（见下方「我的改造」）。
